@@ -32,4 +32,4 @@ Análisis del sistema de producción y operaciones en la empresa a través del e
  
  - Tema 8. Lean Management y Teoría de las Restricciones
 
-Abrir carpeta de las presentaciones (formato PDF y PowerPoint)
+[Abrir Carpeta de las Presentacions (archivos PDF y PowerPoint)](https://github.com/Painkiller-GH/Decisiones-Tacticas-y-Operativas-en-la-Direccion-de-Produccion-y-Operaciones)
