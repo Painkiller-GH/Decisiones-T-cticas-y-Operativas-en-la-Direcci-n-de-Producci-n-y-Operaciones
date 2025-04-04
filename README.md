@@ -5,17 +5,17 @@ Análisis del sistema de producción y operaciones en la empresa a través del e
 ![image](https://github.com/user-attachments/assets/4b0c46ee-27a9-4894-89a6-c8c5c975e7ee)
 
 
-**BLOQUE I. INTRODUCCIÓN**
+**BLOQUE I.  INTRODUCCIÓN**
 
 - Tema 1. Planificación de la producción y de la capacidad a medio y corto plazo
 
  
- **BLOQUE II. PLANIFICACIÓN DE LA PRODUCCIÓN A MEDIO PLAZO**
+ **BLOQUE II.  PLANIFICACIÓN DE LA PRODUCCIÓN A MEDIO PLAZO**
 
 - Tema 2. La planificación agregada
 
  
- **BLOQUE III. PLANIFICACIÓN DE LA PRODUCCIÓN A CORTO PLAZO**
+ **BLOQUE III.  PLANIFICACIÓN DE LA PRODUCCIÓN A CORTO PLAZO**
  
 - Tema 3. Gestión de inventarios con demanda independiente
 
@@ -28,7 +28,7 @@ Análisis del sistema de producción y operaciones en la empresa a través del e
 - Tema 7. Mantenimiento y fiabilidad
 
  
- **BLOQUE IV. FILOSOFÍAS DE GESTIÓN**
+ **BLOQUE IV.  FILOSOFÍAS DE GESTIÓN**
  
  - Tema 8. Lean Management y Teoría de las Restricciones
 
