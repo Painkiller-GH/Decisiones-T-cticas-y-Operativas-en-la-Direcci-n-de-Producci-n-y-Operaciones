@@ -31,3 +31,5 @@ Análisis del sistema de producción y operaciones en la empresa a través del e
  **BLOQUE IV. FILOSOFÍAS DE GESTIÓN**
  
  - Tema 8. Lean Management y Teoría de las Restricciones
+
+Abrir carpeta de las presentaciones (formato PDF y PowerPoint)
